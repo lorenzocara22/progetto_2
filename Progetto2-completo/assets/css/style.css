@@ -1,0 +1,170 @@
+header{
+    width: 100%;
+    height: 100%px;
+    background-color: darkslategray;
+    background-image :url(/assets/images/logo.png) ;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size:  auto 70%;
+    padding: 2%;
+    display: inline-block;
+    }
+
+    body{
+        background-color:gainsboro;
+        font-family: Arial, Helvetica, sans-serif;
+
+
+}
+    
+    nav{
+        background-color: rgb(72, 121, 121);
+    }
+
+    nav ul li {
+        display: inline-block;
+        vertical-align: middle;
+    }
+
+    nav ul li a {
+        color: white;
+        padding: 1%;
+        margin-left: 2rem;
+        display: block;
+        text-decoration: none;
+        text-align: center;
+    }
+
+
+#pieno {
+    width: 90%;
+    height: 100% ;
+    display: inline-block;
+    background-color: orange;
+    background-position: center;
+    color: white;
+    padding: 1.38%;
+    margin-left: 4%;
+    margin-right: 4%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+
+section{ 
+     width: 90%;
+    height: 100%;
+    display:block;
+    background-image : url(/assets/images/bg-image.png) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    padding: 2.96%;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+    text-align: center;
+    
+}
+  
+.container{
+    width: 90%;
+    height: 100%;
+    margin-right:auto ;
+    margin-left:auto ;
+    margin-top: 2%;
+    padding-right: 1.5%;
+    padding-left: 1.5%;
+    text-align: center;
+    background-color: white;
+
+
+}
+
+.image{
+    display: inline-block;
+    width: 22.8%;
+    margin: 1%;
+    height: 100%;
+    border-radius: 3%;
+    
+    
+
+
+
+}
+#img1{height: 20rem;}
+
+.container2{
+    width: 93.2%;
+    height: 100%;
+    display:block;
+    background-image : url(/assets/images/img_9.png) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 13% ;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 2%;
+     
+}
+
+.container3{
+    width: 93.2%;
+    height: 100%;
+    display:block;
+    background-image : url(/assets/images/img_10.png) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 13% ;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    text-align: center;
+    margin-top: 2%;
+   
+}
+
+h1{
+    font-size: 2rem;
+}
+p{
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+p a {color: darkslategray;
+    text-decoration: none;
+
+}
+
+#back{
+    width: 100%;
+    height: 100% ;
+    display: inline-block;
+    background-color: rgb(72, 121, 121);
+    background-position: center;
+    padding: 1%;
+    margin-top: 2%;
+    text-align: center;
+}
+#back a {color: white;
+}
+
+
+footer{
+    width: 100%;
+    height: 100%;
+    background-color: darkslategray;
+    background-image :url(/assets/images/logo.png) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:  auto 70%;
+    padding: 3%;
+    display: inline-block;
+}
